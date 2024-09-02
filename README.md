@@ -1,6 +1,29 @@
 # 💫 About Me:
 🛠️ I’m currently working on: E-commerce API using Node.js<br>🤝 I’m looking to collaborate on: Frontend projects <br>🧠 I’m looking for help with: Exploring new technologies for efficient backend processes.<br>🌱 I’m currently learning: Complete MERN<br>💬 Ask me about: Tailwind CSS, Java, Spring boot<br>⚡ Fun fact: I love experimenting with CSS animations, bringing static designs to life!
 
+## 🏢🧑‍💻 Work Experience:
+
+### Backend Developer Intern, Activation Pod Team
+**JAR App**  
+_March 2024 – August 2024_
+
+- **Enhanced Backend Processes and Analytics:**  
+  Improved user onboarding by developing backend solutions and writing unit tests. Utilized Kibana (Elasticsearch) for log monitoring and CleverTap for product analytics, which provided insights into user behavior and facilitated data-informed improvements.
+
+- **Optimized Event Triggering in CleverTap:**  
+  Identified and resolved a critical bug in the transaction success event trigger, reducing erroneous triggers from 95% to 20%. This enhancement led to more accurate user behavior tracking and improved data reliability for analytics.
+
+- **Implemented In-App Communication:**  
+  Designed and deployed a messaging system to display transaction status updates (success, pending, initiated, or failure) within the app. Developed tailored messages for each error code and utilized a bucket algorithm to manage retries with delays of 30 minutes, ensuring effective user communication.
+
+- **Managed Payout Status Checks and Notifications:**  
+  Implemented a cron job for running payout status checks every 30 minutes and configured Kafka to send Slack alerts by the end of the day. Gained experience in setting up and managing Kafka clusters for real-time data streaming, ensuring efficient message processing within activation workflows.
+
+- **Developed Outside-App Communication Feature:**  
+  Implemented a robust communication system using Karix templates and RedisQueue, facilitating timely notifications via SMS, push notifications, and WhatsApp for various transaction statuses (pending, initiated, successful, and failed). Ensured precise timing of notifications by leveraging RedisQueue for managing required delays.
+
+- **Internship Certificate:**  
+  [View Certificate](https://drive.google.com/file/d/1It1nS5pUse0aup4_uCUxVriJWkbHQ8Qv/view?usp=drive_link)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yashwanthhs0/) 
