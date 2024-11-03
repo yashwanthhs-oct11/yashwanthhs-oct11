@@ -1,5 +1,5 @@
 # 💫 About Me:
-🛠️ I’m currently working on: E-commerce API using Node.js & Personal Portfolio <br>🤝 I’m looking to collaborate on: Frontend projects <br>🧠 I’m looking for help with: Exploring new technologies for efficient backend processes.<br>🌱 I’m currently learning: Complete MERN<br>💬 Ask me about: Tailwind CSS, Java, Spring boot<br>⚡ Fun fact: I love experimenting with CSS animations, bringing static designs to life!
+🛠️ I’m currently working on: E-commerce API using Node.js & Personal Portfolio <br> 💓I’m keen and love to explore: Frontend projects (Next.js, Three.js📦) <br>🧠 I’m looking for help with: Exploring new technologies for efficient backend processes.<br>🌱 I’m currently learning: Complete MERN<br>💬 Ask me about: Tailwind CSS, Java, Spring boot<br>⚡ Fun fact: I love experimenting with CSS animations, bringing static designs to life!
 
 ## 🏢🧑‍💻 Work Experience:
 
